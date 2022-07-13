@@ -1,0 +1,19 @@
+package com.devsuperior.jcprmeta.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.devsuperior.jcprmeta.entities.Sale;
+import com.devsuperior.jcprmeta.repositories.SaleRepository;
+
+public class SaleService {
+	
+	@Autowired
+	private SaleRepository saleRepository;	
+	
+	public List<Sale> findSales() {
+		
+	}
+
+}
