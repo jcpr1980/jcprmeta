@@ -1,0 +1,5 @@
+package com.devsuperior.jcprmeta.confug;
+
+public class SecurityConfig {
+
+}

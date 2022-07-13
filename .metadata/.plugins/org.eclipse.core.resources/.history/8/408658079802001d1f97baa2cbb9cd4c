@@ -1,0 +1,12 @@
+package com.devsuperior.jcprmeta.entities;
+
+public class Sale {
+	
+	id
+	seller_name
+	visited
+	deals
+	amount
+	date
+
+}
